@@ -1,7 +1,7 @@
-baseURL: https://theme-cards.hbstack.dev/
-title: HB Cards Theme
+baseURL: https://blog.bobhy.com/
+title: Adventures of the Retired Guy
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
+copyright: "Copyright © 2022-{year} Bob Hyman. All Rights Reserved."
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false # when true, append the default language code into URL, i.e. /docs -> /en/docs.
 enableRobotsTXT: true
@@ -35,12 +35,27 @@ build:
 
 markup:
   goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: false
+    parser:
+      attribute:
+        block: false
+        title: true
     renderer:
       unsafe: true
+ 
   highlight:
     noClasses: false
     lineNos: true
     lineNumbersInTable: false
+    style: github-dark # or github
 
 # see https://gohugo.io/content-management/related/#configure-related-content
 related:
