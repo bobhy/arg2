@@ -1,8 +1,6 @@
-module github.com/hbstack/theme-cards/exampleSite
+module github.com/bobhy/arg
 
 go 1.19
-
-replace github.com/hbstack/theme-cards => ../
 
 require (
 	github.com/GoogleChrome/workbox v7.0.0+incompatible // indirect

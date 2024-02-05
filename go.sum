@@ -101,6 +101,7 @@ github.com/hbstack/docs/modules/toc-scrollspy v0.1.7 h1:uBSdzKiDVYjqMxCr7UIC25J+
 github.com/hbstack/docs/modules/toc-scrollspy v0.1.7/go.mod h1:gRkFkDSPj8+j0rqIXbo1SQiD0UC7ZlDbbW+6FmilX0g=
 github.com/hbstack/featured-image v0.1.2 h1:Bc/deRi++p4rmoM8SWwgVR8sLpaythdceZYqPM5RGYQ=
 github.com/hbstack/featured-image v0.1.2/go.mod h1:zVzCNnwRWcxv9mdrUooPigdIGBFqD1RUPUcGxrKiTVM=
+github.com/hbstack/featured-image v0.2.0 h1:gD85rx6W51RMDIuyEFA5SO211u1yLTs32448QSyC0y4=
 github.com/hbstack/featured-image v0.2.0/go.mod h1:Y9qKO6T6zHYYHdmic3D4U1U3fbCo+KmX+kawwa9YHxk=
 github.com/hbstack/footer v0.2.8 h1:Wh8PaZM7hGFOlDjeEJg37jekf6l6YF+wazSLbjilWHw=
 github.com/hbstack/footer v0.2.8/go.mod h1:9lJgQPtlefBNs/nrdt6Qr/hF5CjvymwkUVBunjdgrcg=
@@ -124,6 +125,7 @@ github.com/hbstack/hb v0.9.1/go.mod h1:6T8TytCOb1C0EIRVcjzwuhI/G/H0ytTOaJbT1xwiD
 github.com/hbstack/hb v0.9.2 h1:KtqQaqU6ZIJN2w2cXpoUolfmukSdpib+1UXig0JdMdI=
 github.com/hbstack/hb v0.9.2/go.mod h1:6T8TytCOb1C0EIRVcjzwuhI/G/H0ytTOaJbT1xwiDuY=
 github.com/hbstack/hb v0.10.0/go.mod h1:6T8TytCOb1C0EIRVcjzwuhI/G/H0ytTOaJbT1xwiDuY=
+github.com/hbstack/hb v0.11.0 h1:5rPtnOMUaKxd4tT4hm08kDqit7EMNcPkX3PdPEX11z4=
 github.com/hbstack/hb v0.11.0/go.mod h1:6T8TytCOb1C0EIRVcjzwuhI/G/H0ytTOaJbT1xwiDuY=
 github.com/hbstack/header v0.12.2 h1:doFT82RLCaSGedMTtVuERMjE97aG6aNEqvTu9atuyYE=
 github.com/hbstack/header v0.12.2/go.mod h1:Tr1ae4nQQ43FQM+z/GcCPwTANmuJ8NaUpzcEcN4ynTg=
@@ -191,6 +193,8 @@ github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0 h1:lGH8nqOU/+3yzHIk
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.0/go.mod h1:ar5ZFplNyVZCVG6rvo69co1hNZwptxtrDz3zproGLPg=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 h1:IzJlnkHGS8XhibNjUFvyV3YE7rc7WMsAhdxWZTbORI4=
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1/go.mod h1:ar5ZFplNyVZCVG6rvo69co1hNZwptxtrDz3zproGLPg=
+github.com/hbstack/theme-cards v0.1.1 h1:x4rupfKrv3xxEy80lzenTwsbzCUSLHXyb9CzW4JJelk=
+github.com/hbstack/theme-cards v0.1.1/go.mod h1:grBCoimeFOh4iTK8bnVD0uoZG2KE8yBiTGkGRh2Bgmk=
 github.com/hbstack/toc-scrollspy v0.1.0 h1:sr9HidxHVYeSZR1FVOGQzphONSsct/OscbWPSV+vMlo=
 github.com/hbstack/toc-scrollspy v0.1.0/go.mod h1:wIqdWFRjqGGKX6Y5XVRQzaBBeZ91kZBKgovQp8IPvtk=
 github.com/henrygd/bigger-picture v1.1.12 h1:0SwIX+ZY1Jt2DyRX9Tswt8JrB0NNARBN899bVzF0DGA=
@@ -259,6 +263,7 @@ github.com/hugomods/search v0.8.2/go.mod h1:FURp5HBUm8JiuJajLk9sZ1Z1QUSJATboYEp1
 github.com/hugomods/search v0.8.3 h1:IIeU8Xw5t+SRYwpX08NjROt+YtDtWjjW0Xa00nEaYVs=
 github.com/hugomods/search v0.8.3/go.mod h1:FURp5HBUm8JiuJajLk9sZ1Z1QUSJATboYEp1sFi46a4=
 github.com/hugomods/search v0.8.4/go.mod h1:FURp5HBUm8JiuJajLk9sZ1Z1QUSJATboYEp1sFi46a4=
+github.com/hugomods/search v0.8.5 h1:tP3ixxpUgpdj7dmBmnMdoDQtn+dwQNOTgA0Uw1mlxA8=
 github.com/hugomods/search v0.8.5/go.mod h1:FURp5HBUm8JiuJajLk9sZ1Z1QUSJATboYEp1sFi46a4=
 github.com/hugomods/seo/modules/alternatives v0.1.0 h1:G5IjM7j7ExgXEMyxQj1Z/5JwwRW8DEmL0nDJYxA3NhE=
 github.com/hugomods/seo/modules/alternatives v0.1.0/go.mod h1:ff9uz+f5yii9k2jbwt/HKM3RpLR3EYZrNQBAOabNxMA=
