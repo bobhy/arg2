@@ -10,6 +10,7 @@ main:
   - identifier: projects
     name: Projects
     weight: 10
+    url: /project
     params:
       icon:
         vendor: fas
@@ -17,7 +18,7 @@ main:
 
   - name: Off Beat
     parent: projects
-    url: /projects/off-beat
+    url: /project/off-beat
     weight: 11
     params:
       icon:
@@ -27,7 +28,7 @@ main:
 
   - name: Bilge Monitor
     parent: projects
-    url: /projects/bilge-monitor
+    url: /project/bilge-monitor
     weight: 12
     params:
       icon:
@@ -37,7 +38,7 @@ main:
 
   - name: BCL
     parent: projects
-    url: /projects/bcl
+    url: /project/bcl
     weight: 13
     params:
       icon:
