@@ -13,7 +13,7 @@ main:
     params:
       icon:
         vendor: fas
-        name: blog
+        name: list-check
 
   - name: Off Beat
     parent: projects
@@ -21,8 +21,8 @@ main:
     weight: 11
     params:
       icon:
-        vendor: fab
-        name: github
+        vendor: fas
+        name: sailboat
       description: A slow boat.
 
   - name: Bilge Monitor
@@ -31,9 +31,8 @@ main:
     weight: 12
     params:
       icon:
-        vendor: font-awesome-regular
-        name: comments
-        color: green
+        vendor: fas
+        name: arrow-up-from-water-pump
       description: SignalK motor runtime monitor.
 
   - name: BCL
@@ -42,6 +41,6 @@ main:
     weight: 13
     params:
       icon:
-        vendor: fab
-        name: github
+        vendor: fas
+        name: terminal
       description: Bob's command language interpreter.
