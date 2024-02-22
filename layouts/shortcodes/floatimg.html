@@ -1,0 +1,9 @@
+{{/* float image left or right of paragraph:
+    floatimg (dict "Page" . "float" left/right "src" <jpg> "width" nnn% "height" nnn%  */}}
+{{- $src := .Get "src" }}
+{{- $class := printf "me-4 float-%s" (default "start" (.Get "float")) }}
+{{- $width := default "33%" (.Get "width") }}
+    {{% figure(src=$src width=$width class=$class) %}}
+    {{- with .Inner -}}
+        {{- . | markdownify -}}
+    {{- end -}}
